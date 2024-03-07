@@ -12,7 +12,6 @@
 
 ## 사용 기술
 
-- 웹 개발: HTML, CSS, JavaScript
 - 백엔드 프레임워크: Spring Boot
 - 데이터베이스: mariaDB
 
